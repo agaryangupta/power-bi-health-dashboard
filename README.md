@@ -1,28 +1,21 @@
-**Healthcare Analytics Dashboard – Power BI**
+# Healthcare Analytics Dashboard – Power BI
 
-**📊 Overview**
-
+## 📊 Overview
 This dashboard analyzes healthcare performance including patient trends, diagnosis categories, operational metrics, and resource utilization.
 
-**📸 Dashboard Preview**
-
+## 🖼️ Dashboard Preview
 <p align="center">
-  <img src="assets/dashboard-preview.png" width="800">
+  <img src="assets/dashboard-preview.png" width="850">
 </p>
 
-**🔍 Insights**
+## 🔍 Insights
+- Patient admission trends  
+- Hospital resource allocation  
+- Diagnosis distribution  
+- Financial analysis metrics  
 
-Patient admission trends
-
-Hospital resource allocation
-
-Diagnosis distribution
-
-Financial analysis metrics
-
-**🛠 Tools Used**
-
-Power BI Desktop
-
-Excel
-
+## 🛠 Tools Used
+- Power BI Desktop  
+- Excel  
+- DAX  
+- Data Modeling  
