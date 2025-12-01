@@ -6,7 +6,9 @@ This dashboard analyzes healthcare performance including patient trends, diagnos
 
 **📸 Dashboard Preview**
 
-
+<p align="center">
+  <img src="assets/dashboard-preview.png" width="800">
+</p>
 
 **🔍 Insights**
 
